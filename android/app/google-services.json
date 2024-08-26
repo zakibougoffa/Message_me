@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1034728021892",
+    "project_id": "message-me-7a263",
+    "storage_bucket": "message-me-7a263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034728021892:android:13f27f7458b18987bb47d1",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB26d3Rd2ECy0zZZd2oM1AYb2Ou74zApys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034728021892:android:16ba867b613acbabbb47d1",
+        "android_client_info": {
+          "package_name": "com.solvodev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB26d3Rd2ECy0zZZd2oM1AYb2Ou74zApys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
