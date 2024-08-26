@@ -13,6 +13,7 @@ class ChatController extends GetxController {
    User? messageSender ;
    User? currentUser;
    bool? isMe;
+
   final messageTextController = TextEditingController();
   final count = 0.obs;
 
